@@ -1,9 +1,8 @@
 {
-  "description": "You can use Installations to test Firebase A/B Testing or provide a unique identifier for each app instance and a mechanism to authenticate and authorize actions like sending a message via Cloud Messaging.", 
-  "version": "7.0.1", 
-  "displayName": "Firebase Installations", 
+  "unity": "2017.1", 
+  "version": "7.0.2", 
   "dependencies": {
-    "com.google.firebase.app": "7.0.1"
+    "com.google.firebase.app": "7.0.2"
   }, 
   "name": "com.google.firebase.installations", 
   "keywords": [
@@ -13,7 +12,8 @@
     "vh-name:FirebaseInstallations", 
     "vh-name:Firebase Installations"
   ], 
-  "unity": "2017.1", 
+  "description": "You can use Installations to test Firebase A/B Testing or provide a unique identifier for each app instance and a mechanism to authenticate and authorize actions like sending a message via Cloud Messaging.", 
+  "displayName": "Firebase Installations", 
   "author": {
     "name": "Google LLC", 
     "url": "https://firebase.google.com/docs/reference/unity/namespace/firebase/installations"
