@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f7a2b308424440cf9ee04c42014a9dcc
+guid: b6f97cece2e74786aecca3dedb6570db
 labels:
 - gvh
 - gvh_manifest
-- gvh_version-8.3.0
-- gvhp_exportpath-Firebase/Editor/FirebaseInstallations_version-8.3.0_manifest.txt
+- gvh_version-8.4.0
+- gvhp_exportpath-Firebase/Editor/FirebaseInstallations_version-8.4.0_manifest.txt
 - gvhp_manifestname-0Firebase Installations
 - gvhp_manifestname-1FirebaseInstallations
 timeCreated: 0
